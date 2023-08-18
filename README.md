@@ -1,4 +1,4 @@
-![banner](https://github.com/lilithrv/lilithrv/assets/105757994/2c38ce6a-d56a-4fae-8b27-86258b9e75fe)
+![banner-github](https://github.com/lilithrv/lilithrv/assets/105757994/1f7163b4-d1e5-4a32-9ca1-ab2d16566d41)
 
 ```javascript
 const leslie = {
