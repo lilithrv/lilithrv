@@ -11,8 +11,10 @@ const leslie = {
         },
         backEnd: ["node", "express"],
         databases: ["MySql", "postgreSQL"],
-        testing: ["JEST", "supertest"]
-    }
+        testing: ["JEST", "supertest"],
+        dataAnalysis: ["R", "RStudio"]
+    },
+    inProgress:["Next.js", "Python"]
 };
 ```
 <br>
@@ -43,6 +45,8 @@ const leslie = {
     <a href="https://www.npmjs.com/package/supertest"><img src="https://img.shields.io/badge/npm-supertest-151516?style=for-the-badge&color=black&logo=supertest"></a>
     <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&color=black&logoColor=orange" /></a>
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-151516?style=for-the-badge&logo=obsidian&logoColor=purple&color=black" /></a> 
+    <a href="https://docs.posit.co/guides/#rstudio"><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" /></a>
+    <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
 </div>
 
 <div align="center">
