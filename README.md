@@ -9,7 +9,7 @@ const leslie = {
             js: ["React"],
             css: ["bootstrap", "Sass", "Material UI"]
         },
-        backEnd: ["Node.js", "Express", "Python", "FastAPI", "Django"]],
+        backEnd: ["Node.js", "Express", "Python", "FastAPI", "Django"],
         databases: ["MySql", "postgreSQL", "MongoDB"],
         deployment: ["Linux", "Nginx", "PM2"],
         versionControl: ["Git", "GitLab"],
