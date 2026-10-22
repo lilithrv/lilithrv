@@ -40,7 +40,7 @@ const leslie = {
     <a href="https://reactrouter.com/"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&color=black&logo=react-router&logoColor=red" /></a>
     <a href="https://www.npmjs.com/package/react-toastify"><img src="https://img.shields.io/badge/npm-react_toastify-151516?style=for-the-badge&color=black" /></a>
     <a href="https://nodejs.dev/en/"><img src="https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=dark-green&color=black" /></a>
-    <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-151516?style=for-the-badge&logo=npm&logoColor=CB3837" /></a>
+    <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=CB3837" /></a>
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&color=black&logo=postgresql&logoColor=blue&link=https%3A%2F%2Fwww.postgresql.org%2F" /></a>
     <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&color=black&logo=express&logoColor=%2361DAFB" /></a>
     <a href="https://jwt.io/"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&color=black&logo=json-web-tokens&logoColor=pink" /></a>
@@ -50,6 +50,16 @@ const leslie = {
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-151516?style=for-the-badge&logo=obsidian&logoColor=purple&color=black" /></a> 
     <a href="https://docs.posit.co/guides/#rstudio"><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&color=black&logoColor=lightblue" /></a>
     <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&color=black&logoColor=important" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" /></a>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" /></a>
+    <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" /></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" /></a>
+    <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx" /></a>
+    <a href="https://pm2.keymetrics.io/"><img src="https://img.shields.io/badge/PM2-black?style=for-the-badge&logo=pm2" /></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" /></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=FC6D26" /></a>
+    <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab" /></a>
 </div>
 
 <div align="center">
