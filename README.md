@@ -2,19 +2,22 @@
 
 ```javascript
 const leslie = {
-    code: ["JavaScript", "HTML", "CSS"],
+    code: ["JavaScript", "Python", "HTML", "CSS"],
     askMeAbout: ["web dev", "TI", "Harry Potter", "💉"],
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap", "Sass"]
+            css: ["bootstrap", "Sass", "Material UI"]
         },
-        backEnd: ["node", "express"],
-        databases: ["MySql", "postgreSQL"],
+        backEnd: ["Node.js", "Express", "Python", "FastAPI", "Django"]],
+        databases: ["MySql", "postgreSQL", "MongoDB"],
+        deployment: ["Linux", "Nginx", "PM2"],
+        versionControl: ["Git", "GitLab"],
         testing: ["JEST", "supertest"],
         dataAnalysis: ["R", "RStudio"]
     },
-    inProgress:["Next.js", "Python"]
+    alsoKnow: ["C#", ".NET"],
+    inProgress:["Next.js", "Analista Programador"]
 };
 ```
 <br>
